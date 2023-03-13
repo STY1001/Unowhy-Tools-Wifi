@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Unowhy Tools Wifi")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Lenovo")]
-[assembly: AssemblyProduct("Unowhy Tools Wifi")]
-[assembly: AssemblyCopyright("Copyright © Lenovo 2022")]
+[assembly: AssemblyCompany("STY Inc. (STY1001)")]
+[assembly: AssemblyProduct("Unowhy Tools")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
